@@ -3,3 +3,4 @@ Línea creada desde la nube, en github.
 Línea creada en vscode
 Probando otra línea
 Conflicto desde local
+Creando un conflicto desde la nube
