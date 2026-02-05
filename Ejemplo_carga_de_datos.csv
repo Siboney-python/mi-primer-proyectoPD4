@@ -1,0 +1,3 @@
+Herramienta,Método CSV,Método Excel,Ventaja Clave
+Pandas,pd.read_csv(),pd.read_excel(),Gran compatibilidad.
+Polars,pl.read_csv(),pl.read_excel(),Mayor velocidad en archivos grandes.
